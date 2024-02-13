@@ -6,8 +6,8 @@
 <details>
   <summary>Preview</summary>
   <video controls>
-    <source src="./resource/1.webm" type="video/webm">
-    Your browser does not support the video tag.
+    <a href="./resource/1.webm" type="video/webm">
+    Video
   </video>
 </details>
 <details>
