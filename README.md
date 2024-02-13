@@ -1,14 +1,18 @@
-<img src="./resource/encryption.jpg"> </img>
+<img src="./resource/encryption.jpg">
+</img>
 
 ### Encryption Binary C++ based code!
 
 <details>
   <summary>Preview</summary>
-  <video href="./resource/1.webm"> </video>
+  <video controls>
+    <source src="./resource/1.webm" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
 </details>
 <details>
   <summary>How to use?</summary>
-  Compule program:
+  Compile program:
   <code>g++ cry.cpp -o main</code><br>
   Start program:
   <code>./main</code><br>
