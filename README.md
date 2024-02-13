@@ -5,10 +5,7 @@
 
 <details>
   <summary>Preview</summary>
-  <video controls>
-    <a href="./resource/1.webm" type="video/webm">
-    Video
-  </video>
+  <img src="./resource/1.png"></img>
 </details>
 <details>
   <summary>How to use?</summary>
