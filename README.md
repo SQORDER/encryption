@@ -1,4 +1,4 @@
-<h1> Encryption /h1>
+<h1> Encryption  </h1>
 <h4> File encryption and decryption script. </h4>
 
 > [!NOTE]
